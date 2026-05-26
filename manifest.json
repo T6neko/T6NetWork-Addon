@@ -1,0 +1,64 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "T6NetWork Addons",
+		"description": "T6NetWork用のアドオンです。",
+		"uuid": "944eb99a-d3aa-d3b2-4f43-d49645e76d35",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			20,
+			5
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "26ebc27c-074c-3afc-1636-41f2b817e33a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "37026691-9315-7c83-9178-13155e40d16d",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.7.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		},
+		{
+			"module_name": "@minecraft/server-admin",
+			"version": "beta"
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	}
+}
