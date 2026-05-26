@@ -21,14 +21,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-Additional Terms (追加条項):
+Additional Terms :
 
-1. Distribution Restriction (配布の制限):
+1. Distribution Restriction :
 Redistribution of this software in its original, unmodified form is prohibited. 
 You may only distribute this software if it has been modified or integrated into another project.
-(本ソフトウェアを未改変のまま再配布することは禁止します。配布は、改変を加えた場合、または他のプロジェクトに組み込んだ場合に限ります。)
 
 2. Attribution (元の配布場所の明記):
 Any distribution of modified versions or derivatives must include a clear, visible link to the original repository.
-(改変されたバージョンや派生物を配布する場合は、必ず元のリポジトリへの明確で視認可能なリンクを含めてください。)
 [https://github.com/T6neko/T6NetWork-Addon]
