@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2026 Tにゃん
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+Additional Terms (追加条項):
+
+1. Distribution Restriction (配布の制限):
+Redistribution of this software in its original, unmodified form is prohibited. 
+You may only distribute this software if it has been modified or integrated into another project.
+(本ソフトウェアを未改変のまま再配布することは禁止します。配布は、改変を加えた場合、または他のプロジェクトに組み込んだ場合に限ります。)
+
+2. Attribution (元の配布場所の明記):
+Any distribution of modified versions or derivatives must include a clear, visible link to the original repository.
+(改変されたバージョンや派生物を配布する場合は、必ず元のリポジトリへの明確で視認可能なリンクを含めてください。)
+[https://github.com/T6neko/T6NetWork-Addon]
